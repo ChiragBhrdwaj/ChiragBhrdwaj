@@ -6,6 +6,13 @@
 - 😄 Pronouns : he/him
 - ⚡ Fun fact : I create effective & optimized code
 
+## Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,c,html)](https://skillicons.dev)
+
+## Framework:
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,django)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChiragBhrdwaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragbhrdwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragbhrdwaj)
