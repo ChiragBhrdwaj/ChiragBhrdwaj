@@ -8,14 +8,14 @@
 
 ## Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,c,html)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp,python,c,html)
 
 ## Framework:
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,django)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=flutter,django)
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChiragBhrdwaj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragbhrdwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragbhrdwaj)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ChiragBhrdwaj) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/chiragbhrdwaj) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/chiragbhrdwaj)
 
 
 
